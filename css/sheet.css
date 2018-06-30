@@ -1,0 +1,20 @@
+
+.bgimage{
+	background-image: url('../images/image.jpg');
+	background-position: center center;
+	background-size: cover;
+	height: 200px;
+}
+.myimg{
+	width: 150px;
+	height: 150px;
+	margin: 0 auto;
+	display: block;
+	padding-bottom: 10px;
+}
+.item{
+	text-align: center;
+}
+.img-circle {
+    border-radius: 50%;
+}
